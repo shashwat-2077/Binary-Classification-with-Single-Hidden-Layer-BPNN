@@ -7,13 +7,6 @@ The "Binary Classification with single hidden layer BPNN" script contains functi
 
 To run the code, clone the repository and run Binary Classification with single hidden layer BPNN.ipynb. The notebook provides step-by-step instructions on how to load the data, preprocess it, train the model, and evaluate its performance.
 
-Dependencies:
+Dependencies: NumPy, Pandas, Scikit-learn
 
-NumPy
-Pandas
-Scikit-learn
-
-Contributors: 
-Paritosh Mathur
-Himanshu Bungla
-Shashwat Pattanayak
+Contributors: Paritosh Mathur, Himanshu Bungla, Shashwat Pattanayak
